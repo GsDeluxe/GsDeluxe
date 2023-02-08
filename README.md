@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gsdeluxe&show_icons=true&theme=dark&locale=en&layout=compact" alt="gsdeluxe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gsdeluxe&show_icons=true&theme=dark&locale=en" alt="gsdeluxe" /></p>
+[![GsDeluxe's GitHub status](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsdeluxe&theme=dark" alt="gsdeluxe" /></p>
 
