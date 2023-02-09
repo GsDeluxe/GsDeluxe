@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gs Deluxe</h1>
 <h3 align="center">Cyber Security Student, Software And Malware Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsdeluxe&label=Profile%20views&color=0e75b6&style=flat" alt="gsdeluxe" /> </p>
+<p align="center">
+**Profile View Count**
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/GsDeluxe/count.svg" />
+</p>
+
+
 
 - 🔭 I’m currently working on **Deluxecator Rootkit**
 
