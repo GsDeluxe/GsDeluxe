@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gs Deluxe</h1>
-<h3 align="center">Cyber Security Student, Software And Malware Dev</h3>
+<h3 align="center">Cyber Security Student, Computer Science Student, Software And Malware Developer</h3>
 
 <p align="center">
   <b>~ Profile Visits ~</b><br><br>
