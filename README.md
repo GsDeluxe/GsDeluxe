@@ -27,3 +27,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsdeluxe&theme=dark" alt="gsdeluxe" /></p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdeluxe&layout=compact&theme=dark)](https://github.com/GsDeluxe)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/gsdeluxe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gsdeluxe" /></a></p><br><br>
