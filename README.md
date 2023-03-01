@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Gs Deluxe#2922**
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
