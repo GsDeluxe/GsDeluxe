@@ -14,7 +14,7 @@
 
 - 👯 I’m collaborating on [Remote Desktop](https://github.com/HamzLDN/RemoteDesktop)
 
-- 📫 How to reach me **Gs Deluxe#2922**
+- 📫 How to reach me **Discord: __gsdeluxe.__**
 
 <p align="center">
 </p>
