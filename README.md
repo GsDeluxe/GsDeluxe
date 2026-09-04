@@ -1,38 +1,47 @@
-<h1 align="center">Hi 👋, I'm Gs Deluxe</h1>
-<h3 align="center">Cyber Security Student, Computer Science Student, Software And Malware Developer</h3>
-
 <p align="center">
-  <b>~ Profile Visits ~</b><br><br>
-  <img src="https://profile-counter.glitch.me/GsDeluxe/count.svg" />
+  <img src="./images/nebula.jpg" width="100%" />
 </p>
 
-
-
-- 🔭 I’m currently working on **Deluxecator Rootkit**
-
-- 🌱 I’m currently learning **C++**
-
-- 👯 I’m collaborating on [Remote Desktop](https://github.com/HamzLDN/RemoteDesktop)
-
-- 📫 How to reach me **Discord: __gsdeluxe__**
+<h1 align="center">GsDeluxe</h1>
 
 <p align="center">
+  Software Engineer | Cybersecurity Student
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p> </p>
+---
 
-[![GsDeluxe's GitHub Status](https://github-readme-stats.vercel.app/api?username=gsdeluxe&show_icons=true&theme=midnight-purple)](https://github.com/GsDeluxe)
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gsdeluxe&theme=midnight-purple" alt="gsdeluxe" /></p>
+I'm a software engineer and cybersecurity student interested in software development, offensive security and reverse engineering.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsdeluxe&layout=compact&theme=midnight-purple)](https://github.com/GsDeluxe)
+I mainly work with Python, C, and C++ and enjoy building tools, doing security research, analysing software, and experimenting in general.
 
-<p align="center">
-  <h3 align="left">Support:</h3>
-  <p><a href="https://ko-fi.com/gsdeluxe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gsdeluxe" /></a></p><br><br
-</p>
+## Interests
+
+* Reverse engineering
+* Red teaming
+* Malware analysis
+* Security research
+* Systems programming
+* Windows internals
+* Linux & home labbing
+
+## Currently learning
+
+* Low-level Windows development
+* Kernel drivers
+* Advanced reverse engineering
+* Red teaming & penetration testing
+
+## Languages
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)](#)
+
+## Tools
+
+ [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)](#) [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](#)  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#) [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#) [![Burp%20Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](#) [![IDA](https://img.shields.io/badge/IDA-000000?style=for-the-badge)](#) [![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=for-the-badge)](#) [![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge)](#) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](#) [![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
 
+## Contact
 
-
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1499933123222442105) [![Website](https://img.shields.io/badge/Website-6D28D9?style=for-the-badge&logo=firefox&logoColor=white)](https://gsdeluxe.xyz)
